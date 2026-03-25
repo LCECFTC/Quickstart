@@ -11,7 +11,7 @@ import com.pedropathing.util.Timer;
 import org.firstinspires.ftc.teamcode.pedroPathing.Constants;
 
 
-@TeleOp(name = "Robot: Pedro Pathing", group = "Robot")
+@TeleOp(name = "Robot: Pedro Pathing", group = "Test")
 public class SampleAutoPathing extends OpMode {
     private Follower follower;
     private Timer pathTimer, opModetimer;
